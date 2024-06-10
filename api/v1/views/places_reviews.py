@@ -1,4 +1,6 @@
-s is the places reviews page handler for Flask.
+#!/usr/bin/python3
+"""
+    This is the places reviews page handler for Flask.
 """
 from api.v1.views.places import places_id
 from api.v1.views import app_views
