@@ -1,4 +1,6 @@
-s is the places page handler for Flask.
+#!/usr/bin/python3
+"""
+    This is the places page handler for Flask.
 """
 from api.v1.views import app_views
 from models import storage
