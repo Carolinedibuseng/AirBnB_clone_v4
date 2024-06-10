@@ -1,5 +1,6 @@
 
-bjects that handle all default RestFul API actions for Place - Amenity """
+#!/usr/bin/python3
+""" objects that handle all default RestFul API actions for Place - Amenity """
 from models.place import Place
 from models.amenity import Amenity
 from models import storage
