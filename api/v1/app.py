@@ -1,4 +1,6 @@
-s is the API server.
+#!/usr/bin/python3
+"""
+    This is the API server.
 """
 from api.v1.views import app_views
 from flask import Flask
