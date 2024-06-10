@@ -1,4 +1,7 @@
-s is the Blueprint handler for Flask.
+
+#!/usr/bin/python3
+"""
+    This is the Blueprint handler for Flask.
 """
 from flask import Blueprint
 
